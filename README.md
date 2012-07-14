@@ -26,6 +26,10 @@ To build Inno Extract you will also need **CMake 2.8** and a working C++ compile
 
 The website might have more [specific instructions for your linux distribution](http://constexpr.org/innoextract/install).
 
+For Ubuntu 12.04:
+
+    sudo apt-get install libboost-iostreams-dev libboost-filesystem-dev libboost-date-time-dev libboost-system-dev libboost-program-options-dev cmake liblzma-dev
+
 ## Compile and install
 
 To compile Inno Extract, run:
